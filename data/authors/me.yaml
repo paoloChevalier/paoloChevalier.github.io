@@ -11,7 +11,7 @@ name:
 postnominals:
   - "MSc"
 status:
-  icon: "📚"
+  icon: "🐈"
 role: "Applied Mathematics Student & Research Intern"
 bio: "Fifth-year student in applied mathematics at the National Institute of Applied Sciences (INSA) in France. I mostly have interests in climate science, deep learning and extremes."
 affiliations:
@@ -83,8 +83,7 @@ experience:
     org: "Laboratory of Climate and Environmental Sciences (LSCE)"
     start: "2025-06-01"
     end: "2025-09-01"
-    summary: "
-      Working with [Pascal Yiou](https://scholar.google.com/citations?user=g2hesvMAAAAJ&hl=fr&oi=ao) on transfer learning for the estimation of committor functions in climate models.
+    summary: " Working with [Pascal Yiou](https://scholar.google.com/citations?user=g2hesvMAAAAJ&hl=fr&oi=ao) on transfer learning for the estimation of committor functions in climate models.
 
       - Applied transfer learning to improve heatwave forecasts, extending prediction lead time from 3 to 5 days using circulation analogs.
 
@@ -99,8 +98,7 @@ experience:
     org: "Técnico Lisboa - Grupo de Física Matemática"
     start: "2024-06-01"
     end: "2024-08-01"
-    summary: "
-      Working with [Léonard Monsaingeon](https://sites.google.com/view/lmonsaingeon/home) on regularized optimal transport theory.
+    summary: " Working with [Léonard Monsaingeon](https://sites.google.com/view/lmonsaingeon/home) on regularized optimal transport theory.
 
 
       Implementation of Sinkhorn algorithms, Wasserstein distances and barycenters in Python. Study of optimal transport theory, relaxation, and entropic regularisation."
@@ -112,9 +110,7 @@ experience:
     org: "Eurofins"
     start: "2022-06-01"
     end: "2022-07-01"
-    summary: " - Managed bottling and shipment logistics. 
-      - Assisted sampling technicians during fieldwork. 
-      - Conducted industrial prospecting activities."
+    summary: " - Managed bottling and shipment logistics. - Assisted sampling technicians during fieldwork. - Conducted industrial prospecting activities."
 skills:
   - name: "Programming Languages"
     items:
@@ -155,7 +151,4 @@ languages:
   - name: "English"
     level: 5
     label: "C1 - TOEIC 990/990"
-  #- name: "Spanish"
-  #  level: 3
-  #  label: "B1"
 awards: []
