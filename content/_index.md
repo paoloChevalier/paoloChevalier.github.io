@@ -42,7 +42,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        As of now my research aims at enhancing the speed of rare event algorithms with the US of AI weather models.
+        As of now my research aims at enhancing the speed of rare event algorithms with the use of AI weather models.
 
         I will soon be starting a PhD at LISA on the estimation of poluttant emissions (NOx) from space using deep learning.
 
