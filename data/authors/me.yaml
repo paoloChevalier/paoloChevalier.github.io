@@ -100,8 +100,9 @@ experience:
     end: "2024-08-01"
     summary: " Working with [Léonard Monsaingeon](https://sites.google.com/view/lmonsaingeon/home) on regularized optimal transport theory.
 
-
-      Implementation of Sinkhorn algorithms, Wasserstein distances and barycenters in Python. Study of optimal transport theory, relaxation, and entropic regularisation."
+      - Implementation of Sinkhorn algorithms, Wasserstein distances and barycenters in Python. 
+      
+      - Study of optimal transport theory, relaxation, and entropic regularisation."
     button:
       text: "Report"
       url: "/uploads/2024_3MA_Chevalier_Paolo.pdf"
@@ -110,7 +111,11 @@ experience:
     org: "Eurofins"
     start: "2022-06-01"
     end: "2022-07-01"
-    summary: " - Managed bottling and shipment logistics. - Assisted sampling technicians during fieldwork. - Conducted industrial prospecting activities."
+    summary: " - Managed bottling and shipment logistics.
+    
+     - Assisted sampling technicians during fieldwork.
+     
+     - Conducted industrial prospecting activities."
 skills:
   - name: "Programming Languages"
     items:
