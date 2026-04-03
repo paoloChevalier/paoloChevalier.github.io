@@ -4,8 +4,8 @@ hugoblox:
     name: Paolo Chevalier
     type: person
     tagline: Resarch Intern
-    description: Last year student in applied mathematics at the National Institute of Applied Sciences (INSA) in France. I mostly have interests in climate science, deep learn
     organization: LSCE (CNRS)
+    description: "Paolo Chevalier: Applied Mathematics student at INSA Rennes specializing in AI for climate science and extreme events. See more about me."
   theme:
     mode: system
     pack: matcha
@@ -44,5 +44,4 @@ hugoblox:
       enable: true
   search:
     enable: true
-  seo:
-    title: Paolo Chevalier | Research Intern | LSCE
+  seo: {}
