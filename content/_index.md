@@ -44,7 +44,7 @@ sections:
       text: |-
         As of now my research aims at enhancing the speed of rare event algorithms with the use of AI weather models.
 
-        I will soon be starting a PhD at LISA on the estimation of poluttant emissions (NOx) from space using deep learning.
+        I will soon be starting a PhD at LISA on the estimation of pollutant emissions (NOx) from space using deep learning.
 
         Please don't hesitate to reach out !
     design:

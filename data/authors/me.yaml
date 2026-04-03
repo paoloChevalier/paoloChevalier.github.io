@@ -43,7 +43,7 @@ links:
 interests:
   - "Climate"
   - "AI"
-  - "Environnement"
+  - "Environment"
   - "Weather"
   - "Extreme Events"
   - "Pollution Tracking"
@@ -112,7 +112,9 @@ experience:
     org: "Eurofins"
     start: "2022-06-01"
     end: "2022-07-01"
-    summary: "Managed bottling and shipment logistics. Assisted sampling technicians during fieldwork. Conducted industrial prospecting activities."
+    summary: " - Managed bottling and shipment logistics. 
+      - Assisted sampling technicians during fieldwork. 
+      - Conducted industrial prospecting activities."
 skills:
   - name: "Programming Languages"
     items:

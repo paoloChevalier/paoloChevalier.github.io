@@ -32,7 +32,7 @@ hugoblox:
     style: minimal
     language_switcher: true
   copyright:
-    notice: © {year} {name}
+    notice: "© {year} Paolo Chevalier"
     license:
       type: cc
   content:
