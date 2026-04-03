@@ -1,1 +1,1 @@
-personal website build with hugo (blox)
+personal website built with hugo (blox)
