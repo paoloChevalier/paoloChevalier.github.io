@@ -1,42 +1,32 @@
 ---
-title: "Create Beautiful Presentations with Markdown"
-date: '2017-01-01T00:00:00Z'
-
+title: Create Beautiful Presentations with Markdown
+date: 2017-01-01T00:00:00Z
 event_name: HugoBlox Showcase
 event_url: https://hugoblox.com
-
 location: Online & In-Person
 address:
   street: 450 Serra Mall
   city: Stanford
   region: CA
-  postcode: '94305'
+  postcode: "94305"
   country: United States
-
 summary: Discover how to create stunning, interactive presentations using simple Markdown — no PowerPoint, Keynote, or vendor lock-in required.
 abstract: |
   Join us to explore HugoBlox's revolutionary Markdown-based slide system. Create beautiful presentations with code syntax highlighting, math equations, animations, and dual-column layouts. Edit your slides in any text editor, version control them with Git, and present them anywhere with just a browser. Experience true presentation freedom.
-
-# Talk start and end times.
-event_start: '2030-06-01T13:00:00Z'
-event_end: '2030-06-01T15:00:00Z'
+event_start: 2030-06-01T13:00:00Z
+event_end: 2030-06-01T15:00:00Z
 event_all_day: false
-
 authors:
   - me
-
 tags:
   - Markdown
   - Presentations
   - Open Science
   - Academic
-
 featured: true
-
 image:
-  caption: 'Presentation freedom with Markdown'
+  caption: Presentation freedom with Markdown
   focal_point: Right
-
 links:
   - icon: brands/github
     name: Star on GitHub
@@ -47,13 +37,11 @@ links:
   - icon: book-open
     name: Documentation
     url: https://docs.hugoblox.com/guides/slides/
-
-# Link to your Markdown slides
-slides: "example"
-
+slides: example
 projects: []
+status: archived
+draft: true
 ---
-
 ## 🎯 Why Markdown Slides?
 
 > [!SUCCESS] True Presentation Freedom
@@ -115,13 +103,13 @@ That's it! No complex UI, no formatting headaches.
 
 > [!IMPORTANT] **Zero Lock-In**
 > Your slides are just Markdown files. Edit them in:
-> - **Ownable CMS** — Visual editing with live preview
+> - **HugoBlox Studio** — Visual editing with live preview
 > - **VS Code** — With Markdown extensions
 > - **Obsidian** — Note-taking app that speaks Markdown
 > - **Typora** — Minimal distraction writing
 > - **Any text editor** — Even Notepad works!
 
-{{< button url="https://docs.hugoblox.com/guides/studio/" text="Try Ownable CMS" icon="paint-brush" style="secondary" size="md" new_tab="true" rounded="lg" />}}
+{{< button url="https://docs.hugoblox.com/guides/studio/" text="Try HugoBlox Studio" icon="paint-brush" style="secondary" size="md" new_tab="true" rounded="lg" />}}
 
 ### 🎯 Advanced Features
 
@@ -375,7 +363,7 @@ Each lecture gets its own slide deck, all version controlled, all editable by st
 
 <br>
 
-{{< button url="https://docs.hugoblox.com/guides/studio/" text="Try Ownable CMS" icon="paint-brush" style="secondary" size="lg" align="center" rounded="lg" />}}
+{{< button url="https://docs.hugoblox.com/guides/studio/" text="Try HugoBlox Studio" icon="paint-brush" style="secondary" size="lg" align="center" rounded="lg" />}}
 
 ---
 
@@ -395,7 +383,7 @@ Each lecture gets its own slide deck, all version controlled, all editable by st
 - [Creating Your First Slide Deck](https://docs.hugoblox.com/tutorial/slides/)
 - [Advanced Slide Layouts](https://docs.hugoblox.com/reference/slides/)
 - [Customizing Themes](https://docs.hugoblox.com/customization/)
-- [Using Ownable CMS](https://docs.hugoblox.com/studio/)
+- [Using HugoBlox Studio](https://docs.hugoblox.com/studio/)
 -->
 
 ### Tips & Tricks

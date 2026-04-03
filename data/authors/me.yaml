@@ -1,116 +1,159 @@
-schema: hugoblox/author/v1
-slug: me
+schema: "hugoblox/author/v1"
+slug: "me"
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  display: "Paolo Chevalier"
+  given: "Paolo"
+  family: "Chevalier"
+  alternate: ""
+  pronunciation: ""
+  pronouns: "he/him"
 postnominals:
-  - PhD
-  - MIEEE
+  - "MSc"
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
-bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
-
+  icon: "📚"
+role: "Applied Mathematics Student & Research Intern"
+bio: "Fifth-year student in applied mathematics at the National Institute of Applied Sciences (INSA) in France. I mostly have interests in climate science, deep learning and extremes."
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
-
+  - name: "CNRS"
+    url: "https://www.cnrs.fr/"
+  - name: "LSCE"
+    url: "https://www.lsce.ipsl.fr/"
+  - name: "IPSL"
+    url: "https://www.ipsl.fr/"
 links:
-  - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
-
+  - icon: "hero/at-symbol"
+    url: "mailto:paolo.chevalier@cnrs.fr"
+    label: "Email (CNRS)"
+  - icon: "hero/at-symbol"
+    url: "mailto:paoloo.chevalier@gmail.com"
+    label: "Personal email"
+  - icon: "hero/at-symbol"
+    url: "mailto:paolo.chevalier@insa-rennes.fr"
+    label: "School email"
+  - icon: "brands/github"
+    url: "https://github.com/paoloChevalier"
+    label: "GitHub"
+  - icon: "brands/linkedin"
+    url: "https://www.linkedin.com/in/paolo-chevalier/"
+    label: "LinkedIn"
+  - icon: "hero/globe-alt"
+    url: "http://paolochevalier.github.io/"
+    label: "Website"
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
-
+  - "Climate"
+  - "AI"
+  - "Environnement"
+  - "Weather"
+  - "Extreme Events"
+  - "Pollution Tracking"
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: "Ing. Applied Mathematics (Equivalent to MSc)"
+    institution: "INSA Rennes"
+    start: "September 2023"
+    end: "June 2026"
+    summary: "- Average: 16.04/20 (Year 1)\ 
 
+      - Rank: 3rd/21 (Year 1)"
+  - degree: "Erasmus+ Exchange Semester"
+    institution: "Newcastle University"
+    start: "January 2025"
+    end: "June 2025"
+    summary: "Average: 95% / First-Class Honours"
+  - degree: "Preparatory Classes (Classe Préparatoire Integrée)"
+    institution: "INSA Rennes"
+    start: "September 2021"
+    end: "June 2023"
+    summary: "- Intensive multidisciplinary science curriculum specifically designed to prepare for engineering studies.
+
+      - Average: 16.5/20 / First-Class Honours
+
+      - Rank: 10th/230"
+  - degree: "Baccalaureate in Mathematics, Further Mathematics and Engineering Sciences"
+    institution: "Lycée Gaspard Monge la Chauvinière"
+    start: "September 2018"
+    end: "July 2021"
+    summary: "With highest honours"
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
-    summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+  - role: "Research Intern, Using AI models for rare event simulation"
+    org: "Laboratory of Climate and Environmental Sciences (LSCE)"
+    start: "2026-02-17"
+    summary: "Working with [Pascal Yiou](https://scholar.google.com/citations?user=g2hesvMAAAAJ&hl=fr&oi=ao) on climate extremes using advanced AI forecasting models."
+  - role: "Research Intern, Transfer learning for the estimation of committor functions"
+    org: "Laboratory of Climate and Environmental Sciences (LSCE)"
+    start: "2025-06-01"
+    end: "2025-09-01"
+    summary: "
+      Working with [Pascal Yiou](https://scholar.google.com/citations?user=g2hesvMAAAAJ&hl=fr&oi=ao) on transfer learning for the estimation of committor functions in climate models.
+
+      - Applied transfer learning to improve heatwave forecasts, extending prediction lead time from 3 to 5 days using circulation analogs.
+
+      - Trained U-Net deep learning model in IPSL-CM6A-LR and ERA5 to predict temperature fields from circulation fields, achieving correlations above 0.95 for 1-day forecasts.
+
+      - Wrote optimized code for calculating atmospheric analogs using matrix operations, significantly reducing computation time."
     button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      text: "Report"
+      url: "/uploads/2025_4MA_Chevalier_Paolo.pdf"
+      icon: "hero/arrow-down-tray"
+  - role: "Research Intern, Entropic Optimal Transport"
+    org: "Técnico Lisboa - Grupo de Física Matemática"
+    start: "2024-06-01"
+    end: "2024-08-01"
+    summary: "
+      Working with [Léonard Monsaingeon](https://sites.google.com/view/lmonsaingeon/home) on regularized optimal transport theory.
 
+
+      Implementation of Sinkhorn algorithms, Wasserstein distances and barycenters in Python. Study of optimal transport theory, relaxation, and entropic regularisation."
+    button:
+      text: "Report"
+      url: "/uploads/2024_3MA_Chevalier_Paolo.pdf"
+      icon: "hero/arrow-down-tray"
+  - role: "Worker Internship in commercial and sampling agency"
+    org: "Eurofins"
+    start: "2022-06-01"
+    end: "2022-07-01"
+    summary: "Managed bottling and shipment logistics. Assisted sampling technicians during fieldwork. Conducted industrial prospecting activities."
 skills:
-  - name: Technical Skills
+  - name: "Programming Languages"
     items:
-      - label: Python
+      - label: "Python"
         level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
+      - label: "R"
         level: 4
-  - name: Research & Communication
+      - label: "Matlab"
+        level: 4
+      - label: "C++"
+        level: 3
+      - label: "Julia"
+        level: 3
+      - label: "C"
+        level: 3
+  - name: "Technical Skills"
     items:
-      - label: Academic Writing
+      - label: "Deep Learning"
         level: 5
-      - label: Conference Presentations
+      - label: "Machine Learning"
+        level: 5
+      - label: "Data Analytics (PCA, CA, MFA)"
         level: 4
-      - label: Grant Proposals
+      - label: "Climate Modeling"
         level: 4
-
+      - label: "Optimal Transport"
+        level: 4
+      - label: "Statistical Inference"
+        level: 4
+      - label: "Optimization"
+        level: 4
+      - label: "Bayesian Methods"
+        level: 4
 languages:
-  - name: English
+  - name: "French"
     level: 5
-    label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
-
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+    label: "Native"
+  - name: "English"
+    level: 5
+    label: "C1 - TOEIC 990/990"
+  #- name: "Spanish"
+  #  level: 3
+  #  label: "B1"
+awards: []
