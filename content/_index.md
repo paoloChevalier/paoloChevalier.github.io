@@ -46,7 +46,7 @@ sections:
 
         I will soon be starting a PhD at LISA on the estimation of poluttant emissions (NOx) from space using deep learning.
 
-        Please reach out to collaborate 😃
+        Please don't hesitate to reach out !
     design:
       columns: '1'
   - block: collection
