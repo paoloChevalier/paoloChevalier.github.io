@@ -8,15 +8,7 @@ main:
     identifier: 35b14a86
     url: /
     weight: 10
-  - name: Papers
-    identifier: a21b1a1a
-    url: /#papers
-    weight: 20
-  - name: Talks
-    identifier: 5f095cc4
-    url: /#talks
-    weight: 30
   - name: Experience
     identifier: 6e226fb8
     url: experience/
-    weight: 40
+    weight: 20
