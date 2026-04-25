@@ -1,11 +1,14 @@
+baseURL: "https://paolochevalier.github.io/"
+title: "Paolo Chevalier"
+
 hugoblox:
   schema: "2.0"
   identity:
     name: Paolo Chevalier
     type: person
-    tagline: Resarch Intern
+    tagline: Research Intern
     organization: LSCE (CNRS)
-    description: "Paolo Chevalier: Applied Mathematics student at INSA Rennes specializing in AI for climate science and extreme events. See more about me."
+    description: "Paolo Chevalier's personal website. Applied mathematics student at INSA, specializing in applied maths for climate and environment."
   theme:
     mode: system
     pack: coffee
